@@ -1,0 +1,3 @@
+.form-control::placeholder {
+    color: white; /* Set the color of the placeholder text to white */
+  }
